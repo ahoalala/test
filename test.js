@@ -1,2 +1,2 @@
-Detta är ett tet. 
-En extra rad.
+Detta är ett test. 
+En ny rad på master.
